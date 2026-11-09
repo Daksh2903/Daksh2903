@@ -8,8 +8,14 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-9d4edd?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
-<img src="https://komarev.com/ghpvc/?username=Daksh2903&label=Visitors&color=7b2cbf&style=for-the-badge" alt="Visitors" />
+<img src="https://img.shields.io/badge/MSc%20IT-Student-7b2cbf?style=for-the-badge&logo=googlescholar&logoColor=white" alt="MSc IT Student" />
+<img src="https://img.shields.io/badge/AI-Developer-9d4edd?style=for-the-badge&logo=openai&logoColor=white" alt="AI Developer" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-c77dff?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Daksh2903&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Daksh2903?label=Followers&style=flat-square&color=9d4edd&logo=github" alt="Followers" />
 
 </div>
 
@@ -17,7 +23,7 @@
 
 ## ✨ Hello, World!
 
-> I'm Daksh, a Master of Science in Information Technology student who loves turning ideas into working projects and learning new technology along the way.
+> I'm **Daksh Patel**, a Master of Science in Information Technology student who loves turning ideas into working projects and learning new technology along the way.
 
 <table>
   <tr>
@@ -25,8 +31,8 @@
     <td>Master of Science in Information Technology (MSc IT)</td>
   </tr>
   <tr>
-    <td>🔍 <b>Interested in</b></td>
-    <td>Software development, web platforms and emerging tech</td>
+    <td>🤖 <b>Focus</b></td>
+    <td>AI development, software and web platforms</td>
   </tr>
   <tr>
     <td>🚧 <b>Building</b></td>
@@ -66,24 +72,25 @@
 
 ## 🚀 Projects I'm Proud Of
 
-<!--
-  Replace each REPO_NAME below with the exact name of one of your repositories
-  (the part after github.com/Daksh2903/). Add or delete blocks as needed.
--->
-
 <div align="center">
   <a href="https://github.com/Daksh2903/PHP">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=PHP&theme=synthwave&hide_border=true" alt="Project 1" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daksh2903&repo=PHP&theme=synthwave&hide_border=true" alt="PHP" />
   </a>
   <a href="https://github.com/Daksh2903/EventSetu">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=EventSetu&theme=synthwave&hide_border=true" alt="Project 2" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daksh2903&repo=EventSetu&theme=synthwave&hide_border=true" alt="EventSetu" />
   </a>
   <br/>
   <a href="https://github.com/Daksh2903/portfolio-website">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=portfolio-website&theme=synthwave&hide_border=true" alt="Project 3" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daksh2903&repo=portfolio-website&theme=synthwave&hide_border=true" alt="portfolio-website" />
   </a>
   <a href="https://github.com/Daksh2903/Agentic-AI-Workflow">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=Agentic-AI-Workflow&theme=synthwave&hide_border=true" alt="Project 4" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daksh2903&repo=Agentic-AI-Workflow&theme=synthwave&hide_border=true" alt="Agentic-AI-Workflow" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Daksh2903?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-7b2cbf?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories" />
   </a>
 </div>
 
@@ -93,16 +100,16 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Daksh2903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh2903&layout=donut&theme=synthwave&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daksh2903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daksh2903&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Daksh2903&theme=synthwave&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=Daksh2903&theme=synthwave&hide_border=true" alt="GitHub streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh2903&theme=synthwave&hide_border=true&area=true" width="100%" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh2903&bg_color=0d1117&color=c77dff&line=9d4edd&point=ffffff&area=true&area_color=7b2cbf&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
