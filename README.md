@@ -72,8 +72,8 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/Daksh2903/REPO_NAME_1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=REPO_NAME_1&theme=synthwave&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/Daksh2903/PHP">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=PHP&theme=synthwave&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/Daksh2903/REPO_NAME_2">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=REPO_NAME_2&theme=synthwave&hide_border=true" alt="Project 2" />
