@@ -71,21 +71,56 @@ class Daksh:
 
 <div align="center">
 
-  ### 💻 Languages & Web Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,mysql,react,nextjs,nodejs,laravel,tailwind&perline=6&theme=dark" alt="Languages & Frameworks" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&height=35&lines=My+tech+arsenal+%E2%9A%A1;Tools+I+use+to+build+ideas+%F0%9F%9B%A0%EF%B8%8F;Always+adding+something+new+%F0%9F%8C%B1" alt="Tech arsenal tagline" />
 
-  <br /><br />
+<br/><br/>
 
-  ### 🤖 AI, Security & Developer Tools
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode,docker,postman&perline=7&theme=dark" alt="Tools & AI" />
-  </a>
+<table>
+  <tr>
+    <td align="center" valign="top" width="260">
+      <img src="https://img.shields.io/badge/Languages-7b2cbf?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css&perline=3&theme=dark" alt="Languages" />
+    </td>
+    <td align="center" valign="top" width="260">
+      <img src="https://img.shields.io/badge/Frontend-9d4edd?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3&theme=dark" alt="Frontend" />
+    </td>
+    <td align="center" valign="top" width="260">
+      <img src="https://img.shields.io/badge/Backend%20%26%20Database-c77dff?style=for-the-badge&logo=databricks&logoColor=white" alt="Backend and Database" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql&perline=3&theme=dark" alt="Backend and Database" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="260">
+      <img src="https://img.shields.io/badge/AI%20%26%20ML-7b2cbf?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and ML" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,py&perline=3&theme=dark" alt="AI and ML" />
+    </td>
+    <td align="center" valign="top" width="260">
+      <img src="https://img.shields.io/badge/Version%20Control%20%26%20DevOps-9d4edd?style=for-the-badge&logo=git&logoColor=white" alt="Version control and DevOps" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux&perline=4&theme=dark" alt="Version control and DevOps" />
+    </td>
+    <td align="center" valign="top" width="260">
+      <img src="https://img.shields.io/badge/Editor%20%26%20API-c77dff?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Editor and API" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,postman&perline=3&theme=dark" alt="Editor and API" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Currently%20exploring-AI%20%26%20Agentic%20Workflows-9d4edd?style=for-the-badge&logo=openai&logoColor=white" alt="Currently exploring" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+
 
 ## 🚀 Projects I'm Proud Of
 
