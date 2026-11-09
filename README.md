@@ -75,15 +75,15 @@
   <a href="https://github.com/Daksh2903/PHP">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=PHP&theme=synthwave&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/Daksh2903/REPO_NAME_2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=REPO_NAME_2&theme=synthwave&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/Daksh2903/EventSetu">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=EventSetu&theme=synthwave&hide_border=true" alt="Project 2" />
   </a>
   <br/>
-  <a href="https://github.com/Daksh2903/REPO_NAME_3">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=REPO_NAME_3&theme=synthwave&hide_border=true" alt="Project 3" />
+  <a href="https://github.com/Daksh2903/portfolio-website">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=portfolio-website&theme=synthwave&hide_border=true" alt="Project 3" />
   </a>
-  <a href="https://github.com/Daksh2903/REPO_NAME_4">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=REPO_NAME_4&theme=synthwave&hide_border=true" alt="Project 4" />
+  <a href="https://github.com/Daksh2903/Agentic-AI-Workflow">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2903&repo=Agentic-AI-Workflow&theme=synthwave&hide_border=true" alt="Project 4" />
   </a>
 </div>
 
