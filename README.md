@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=DAKSH%20PATEL&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&descAlignY=62&descSize=20" width="100%" alt="Daksh Patel banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=270&section=header&text=DAKSH%20PATEL&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MSc%20IT%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%" alt="Daksh Patel banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=720&height=45&lines=MSc+IT+Student+%F0%9F%8E%93;AI+Developer+%F0%9F%A4%96;Turning+ideas+into+working+projects+%E2%9A%A1;Building+clean%2C+useful+software+%F0%9F%9B%A0%EF%B8%8F;Learning+something+new+every+day+%F0%9F%8C%B1" alt="Typing roles" />
+<!-- Animated terminal intro -->
+<a href="https://github.com/Daksh2903">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=C77DFF&center=true&vCenter=true&width=640&height=50&lines=%24+whoami;Daksh+Patel+%E2%80%94+MSc+IT+Student+%F0%9F%8E%93;%24+cat+focus.txt;AI+Development+%7C+Software+%7C+Web+%F0%9F%A4%96;%24+echo+%22Let's+build+something+great%22;Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%9A%80" alt="Animated terminal intro" />
 </a>
 
 <br/>
@@ -21,32 +22,48 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
-## ✨ Hello, World!
+## 👋 Hello, World!
 
-> I'm **Daksh Patel**, a Master of Science in Information Technology student who loves turning ideas into working projects and learning new technology along the way.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=9D4EDD&center=true&vCenter=true&width=700&height=35&lines=I+turn+ideas+into+working+projects+%E2%9A%A1;And+learn+something+new+along+the+way+%F0%9F%8C%B1" alt="Intro tagline" />
+</div>
+
+```python
+class Daksh:
+    name      = "Daksh Patel"
+    studying  = "Master of Science in Information Technology (MSc IT)"
+    focus     = ["AI Development", "Software", "Web Platforms"]
+    building  = "Projects you can find in my repositories below 🚀"
+    learning  = "New tools, frameworks and better ways to code"
+    open_to   = ["Projects", "Collaborations", "Learning opportunities"]
+
+    def motto(self):
+        return "Learn • Build • Repeat"
+```
+
+<div align="center">
 
 <table>
   <tr>
-    <td>🎓 <b>Studying</b></td>
-    <td>Master of Science in Information Technology (MSc IT)</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Focus</b></td>
-    <td>AI development, software and web platforms</td>
-  </tr>
-  <tr>
-    <td>🚧 <b>Building</b></td>
-    <td>Projects you can find in my repositories below</td>
-  </tr>
-  <tr>
-    <td>📖 <b>Learning</b></td>
-    <td>New tools, frameworks and better ways to code</td>
-  </tr>
-  <tr>
-    <td>🤝 <b>Open to</b></td>
-    <td>Projects, collaborations and learning opportunities</td>
+    <td align="center" width="240">
+      <h3>🎓</h3>
+      <b>Studying</b><br/>
+      <sub>MSc IT</sub>
+    </td>
+    <td align="center" width="240">
+      <h3>🤖</h3>
+      <b>Focus</b><br/>
+      <sub>AI, Software & Web</sub>
+    </td>
+    <td align="center" width="240">
+      <h3>🤝</h3>
+      <b>Open to</b><br/>
+      <sub>Collabs & new projects</sub>
+    </td>
   </tr>
 </table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
