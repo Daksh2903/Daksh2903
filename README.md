@@ -121,9 +121,9 @@
 <summary><b>Click to open 👀</b></summary>
 <br/>
 
-- 🎧 Add a fun fact about yourself here
-- 🎮 A hobby or interest you love
-- ☕ Your favourite thing while coding
+- 🐛 I've spent more time hunting one missing semicolon than I'd like to admit
+- 🤖 I treat AI tools like a teammate, but I always double-check their work
+- 🌱 I learn best by building small projects instead of only watching tutorials
 
 </details>
 
